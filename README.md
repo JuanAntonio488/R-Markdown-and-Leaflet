@@ -11,4 +11,4 @@ The rubric contains the following two questions:
 
 2-Does the web page feature an interactive map that appears to have been created with Leaflet?
 
-WebPage: https://juanantonio488.github.io/R-Markdown-and-Leaflet/
+WebPage: https://juanantonio488.github.io/R-Markdown-and-Leaflet/interactiveReproducibleMaps.html
